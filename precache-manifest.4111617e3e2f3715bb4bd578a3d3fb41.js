@@ -1,31 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ac8b14919707d551842e77f14534f24c",
+    "revision": "78237f9992740987d172604a1a180db1",
     "url": "/shigimcp2020-react/index.html"
   },
   {
-    "revision": "d10b50faf20017f42164",
-    "url": "/shigimcp2020-react/static/css/main.5be35dd6.chunk.css"
+    "revision": "1e2780b1aa0256487986",
+    "url": "/shigimcp2020-react/static/css/main.efb11567.chunk.css"
   },
   {
-    "revision": "9fc476a9a53b0adfff41",
-    "url": "/shigimcp2020-react/static/js/2.5a4a222b.chunk.js"
+    "revision": "46df037794b69fe3800f",
+    "url": "/shigimcp2020-react/static/js/2.8165418e.chunk.js"
   },
   {
     "revision": "46cb57753471c9ce36d593afc9a575b5",
-    "url": "/shigimcp2020-react/static/js/2.5a4a222b.chunk.js.LICENSE.txt"
+    "url": "/shigimcp2020-react/static/js/2.8165418e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d10b50faf20017f42164",
-    "url": "/shigimcp2020-react/static/js/main.b5c4183b.chunk.js"
+    "revision": "1e2780b1aa0256487986",
+    "url": "/shigimcp2020-react/static/js/main.34e68a3f.chunk.js"
   },
   {
     "revision": "9933caff28d300965291",
     "url": "/shigimcp2020-react/static/js/runtime-main.b6df552f.js"
-  },
-  {
-    "revision": "c53d9599cdb1b7e9bca9a62c3e0a635a",
-    "url": "/shigimcp2020-react/static/media/26903_NM_TRINI_GIRL_GWP_PR_Walgreens_300x250_retina_03b.c53d9599.jpg"
   },
   {
     "revision": "0ce31c37720fca284d3a153e21112e26",
@@ -52,6 +48,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/shigimcp2020-react/static/media/BSPS_image.6bc465a8.jpg"
   },
   {
+    "revision": "38205feecb478232b190d3683e4e3b1c",
+    "url": "/shigimcp2020-react/static/media/CR_18951_ALWAYS_RED_DIGITAL_PLAN_1H15_300x600_retina_03.38205fee.jpg"
+  },
+  {
     "revision": "4aec81cb02bbc8288c78e972dc510254",
     "url": "/shigimcp2020-react/static/media/ChaleParNinSix.4aec81cb.eot"
   },
@@ -66,6 +66,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fc1bf3d8be9c31fa9980d5f2eaedeb2b",
     "url": "/shigimcp2020-react/static/media/ChaleParNinSix.fc1bf3d8.svg"
+  },
+  {
+    "revision": "000ada21b41aeb969dfdf409d0441d09",
+    "url": "/shigimcp2020-react/static/media/Didot_Regular.000ada21.svg"
+  },
+  {
+    "revision": "50f9879ca909cb90edf977a044a25e6f",
+    "url": "/shigimcp2020-react/static/media/Didot_Regular.50f9879c.woff"
+  },
+  {
+    "revision": "86d216347c5936166ec54f6aaa9e1870",
+    "url": "/shigimcp2020-react/static/media/Didot_Regular.86d21634.eot"
   },
   {
     "revision": "255daddb3a15b5fb564e98c1c8de13fe",
@@ -132,8 +144,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/shigimcp2020-react/static/media/LOGO_NM_Minajesty_sultry.329a6cd2.svg"
   },
   {
+    "revision": "a55a3f5d7e628de65ea6e4d87b03ae5c",
+    "url": "/shigimcp2020-react/static/media/LOGO_RED_always_r.a55a3f5d.svg"
+  },
+  {
+    "revision": "f41f35aaa8cf6ad4d085c5ea3f0ecadd",
+    "url": "/shigimcp2020-react/static/media/LOGO_RED_ea_w.f41f35aa.svg"
+  },
+  {
+    "revision": "0d2d93189a5caff5510bb0ce709afbaf",
+    "url": "/shigimcp2020-react/static/media/LOGO_RED_red_r.0d2d9318.svg"
+  },
+  {
     "revision": "3cb48ed9c63767ee846ff876d3de9544",
     "url": "/shigimcp2020-react/static/media/bg.3cb48ed9.jpg"
+  },
+  {
+    "revision": "ab0bc347980b604961ab7c06dcc47f3d",
+    "url": "/shigimcp2020-react/static/media/bg.ab0bc347.jpg"
   },
   {
     "revision": "5e44f03fa3e5b144deddec9a7139d2df",
@@ -144,6 +172,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/shigimcp2020-react/static/media/bg02.59a4fd88.jpg"
   },
   {
+    "revision": "87959a8999b29c74349dccc3223fd347",
+    "url": "/shigimcp2020-react/static/media/bg_dk.87959a89.jpg"
+  },
+  {
+    "revision": "9d696595ea78c70fcbbe94b4ab535bd3",
+    "url": "/shigimcp2020-react/static/media/bg_lt.9d696595.jpg"
+  },
+  {
     "revision": "509af13b2adb80cc56061979887a89c3",
     "url": "/shigimcp2020-react/static/media/bottle.509af13b.png"
   },
@@ -152,16 +188,48 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/shigimcp2020-react/static/media/bottle.60aef07d.png"
   },
   {
+    "revision": "95435ca0dd9df2e55af54da45ee0f104",
+    "url": "/shigimcp2020-react/static/media/bottle.95435ca0.png"
+  },
+  {
+    "revision": "c331993434a1ba1ed62f5dbf701dfcfa",
+    "url": "/shigimcp2020-react/static/media/bottle_lt.c3319934.png"
+  },
+  {
     "revision": "eaf2aa03c265c1c3f9c752f08676153c",
     "url": "/shigimcp2020-react/static/media/btn_walmart.eaf2aa03.svg"
+  },
+  {
+    "revision": "83c6412f6d8d2ae6f725d2d6ed33ac75",
+    "url": "/shigimcp2020-react/static/media/cta_shop.83c6412f.svg"
   },
   {
     "revision": "258c9ffc42b1476a2b19f9895ac1ec7b",
     "url": "/shigimcp2020-react/static/media/cta_sp.258c9ffc.svg"
   },
   {
+    "revision": "9fc53865b5cd19eb73489d47e55218cb",
+    "url": "/shigimcp2020-react/static/media/flash01.9fc53865.jpg"
+  },
+  {
     "revision": "adf806316d63a72fc75c8e22dabff5db",
     "url": "/shigimcp2020-react/static/media/gwp.adf80631.png"
+  },
+  {
+    "revision": "dd6010c07ec55678f475b9a18b9d6686",
+    "url": "/shigimcp2020-react/static/media/image.dd6010c0.jpg"
+  },
+  {
+    "revision": "b76f2f8fc666f1390b3d6410df75076c",
+    "url": "/shigimcp2020-react/static/media/logo_red_ds_k.b76f2f8f.png"
+  },
+  {
+    "revision": "50a5c1c1e3057f7b78baa0e6c4567288",
+    "url": "/shigimcp2020-react/static/media/logo_red_ds_r.50a5c1c1.png"
+  },
+  {
+    "revision": "45ff7b3ddefd50f31b4d261608a6b9f4",
+    "url": "/shigimcp2020-react/static/media/logo_red_ds_w.45ff7b3d.png"
   },
   {
     "revision": "185a3f9f2c2039b4ff07af4a852809bf",
