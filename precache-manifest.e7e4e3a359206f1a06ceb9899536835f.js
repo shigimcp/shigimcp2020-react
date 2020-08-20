@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f1f18c1e9cd00d5e15042aca27316494",
+    "revision": "25465cb5aa5ba062230a39aee5a36b49",
     "url": "/shigimcp2020-react/index.html"
   },
   {
-    "revision": "047ac883bdb23a5a86c6",
-    "url": "/shigimcp2020-react/static/css/main.50c5e72c.chunk.css"
+    "revision": "3ba2c867a81e491f584f",
+    "url": "/shigimcp2020-react/static/css/main.897cfed2.chunk.css"
   },
   {
-    "revision": "bc840cfed1c186bbfb35",
-    "url": "/shigimcp2020-react/static/js/2.3444db25.chunk.js"
+    "revision": "32539b69868325bbd5fd",
+    "url": "/shigimcp2020-react/static/js/2.21b36c13.chunk.js"
   },
   {
-    "revision": "f6ffbd12b2f1aef0f8de05fae1592a25",
-    "url": "/shigimcp2020-react/static/js/2.3444db25.chunk.js.LICENSE.txt"
+    "revision": "ec8e40bfb0b43b231afdf34886ee53af",
+    "url": "/shigimcp2020-react/static/js/2.21b36c13.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "047ac883bdb23a5a86c6",
-    "url": "/shigimcp2020-react/static/js/main.b8799b64.chunk.js"
+    "revision": "3ba2c867a81e491f584f",
+    "url": "/shigimcp2020-react/static/js/main.2525e1b0.chunk.js"
   },
   {
     "revision": "9933caff28d300965291",
