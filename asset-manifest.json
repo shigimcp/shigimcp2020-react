@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/shigimcp2020-react/static/css/main.b300aa2b.chunk.css",
+    "main.css": "/shigimcp2020-react/static/css/main.5b05969a.chunk.css",
     "main.js": "/shigimcp2020-react/static/js/main.15fe844c.chunk.js",
     "main.js.map": "/shigimcp2020-react/static/js/main.15fe844c.chunk.js.map",
     "runtime-main.js": "/shigimcp2020-react/static/js/runtime-main.b6df552f.js",
@@ -8,9 +8,9 @@
     "static/js/2.a9587e43.chunk.js": "/shigimcp2020-react/static/js/2.a9587e43.chunk.js",
     "static/js/2.a9587e43.chunk.js.map": "/shigimcp2020-react/static/js/2.a9587e43.chunk.js.map",
     "index.html": "/shigimcp2020-react/index.html",
-    "precache-manifest.48ad81a64e99953c64cfb0a2543593b8.js": "/shigimcp2020-react/precache-manifest.48ad81a64e99953c64cfb0a2543593b8.js",
+    "precache-manifest.ab028145bc6f8f5add98aa20d8919ba9.js": "/shigimcp2020-react/precache-manifest.ab028145bc6f8f5add98aa20d8919ba9.js",
     "service-worker.js": "/shigimcp2020-react/service-worker.js",
-    "static/css/main.b300aa2b.chunk.css.map": "/shigimcp2020-react/static/css/main.b300aa2b.chunk.css.map",
+    "static/css/main.5b05969a.chunk.css.map": "/shigimcp2020-react/static/css/main.5b05969a.chunk.css.map",
     "static/js/2.a9587e43.chunk.js.LICENSE.txt": "/shigimcp2020-react/static/js/2.a9587e43.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/shigimcp2020-react/static/media/ChaleParNinSix.fc1bf3d8.svg",
     "static/media/BSPS_bottle.png": "/shigimcp2020-react/static/media/BSPS_bottle.dab95377.png",
@@ -83,7 +83,7 @@
   "entrypoints": [
     "static/js/runtime-main.b6df552f.js",
     "static/js/2.a9587e43.chunk.js",
-    "static/css/main.b300aa2b.chunk.css",
+    "static/css/main.5b05969a.chunk.css",
     "static/js/main.15fe844c.chunk.js"
   ]
 }
