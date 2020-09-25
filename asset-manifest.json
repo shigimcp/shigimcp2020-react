@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/shigimcp2020-react/static/css/main.0a16ffd3.chunk.css",
-    "main.js": "/shigimcp2020-react/static/js/main.02363651.chunk.js",
-    "main.js.map": "/shigimcp2020-react/static/js/main.02363651.chunk.js.map",
+    "main.js": "/shigimcp2020-react/static/js/main.ecf1502f.chunk.js",
+    "main.js.map": "/shigimcp2020-react/static/js/main.ecf1502f.chunk.js.map",
     "runtime-main.js": "/shigimcp2020-react/static/js/runtime-main.b6df552f.js",
     "runtime-main.js.map": "/shigimcp2020-react/static/js/runtime-main.b6df552f.js.map",
     "static/js/2.e6f2949e.chunk.js": "/shigimcp2020-react/static/js/2.e6f2949e.chunk.js",
     "static/js/2.e6f2949e.chunk.js.map": "/shigimcp2020-react/static/js/2.e6f2949e.chunk.js.map",
     "index.html": "/shigimcp2020-react/index.html",
-    "precache-manifest.cbd258030bf64a39f3ced2d06c88bb72.js": "/shigimcp2020-react/precache-manifest.cbd258030bf64a39f3ced2d06c88bb72.js",
+    "precache-manifest.7dcec754362ff4995e7ef031c4fe1804.js": "/shigimcp2020-react/precache-manifest.7dcec754362ff4995e7ef031c4fe1804.js",
     "service-worker.js": "/shigimcp2020-react/service-worker.js",
     "static/css/main.0a16ffd3.chunk.css.map": "/shigimcp2020-react/static/css/main.0a16ffd3.chunk.css.map",
     "static/js/2.e6f2949e.chunk.js.LICENSE.txt": "/shigimcp2020-react/static/js/2.e6f2949e.chunk.js.LICENSE.txt",
@@ -84,6 +84,6 @@
     "static/js/runtime-main.b6df552f.js",
     "static/js/2.e6f2949e.chunk.js",
     "static/css/main.0a16ffd3.chunk.css",
-    "static/js/main.02363651.chunk.js"
+    "static/js/main.ecf1502f.chunk.js"
   ]
 }
