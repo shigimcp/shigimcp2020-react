@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "43c23def8c9a841a70ff30f4fee7c20d",
+    "revision": "200b130f8aaecbc5345ebe1d47c07b89",
     "url": "/shigimcp2020-react/index.html"
   },
   {
-    "revision": "6ba75464bae25b9bcdc0",
+    "revision": "5def17aee4b10514bc0c",
     "url": "/shigimcp2020-react/static/css/main.b6c0d493.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/shigimcp2020-react/static/js/2.9f57a687.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6ba75464bae25b9bcdc0",
-    "url": "/shigimcp2020-react/static/js/main.7d45a414.chunk.js"
+    "revision": "5def17aee4b10514bc0c",
+    "url": "/shigimcp2020-react/static/js/main.353f7bc5.chunk.js"
   },
   {
     "revision": "9933caff28d300965291",
