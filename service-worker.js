@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/shigimcp2020-react/precache-manifest.0ef531fef168a1634b53ae00dc1d63ba.js"
+  "/shigimcp2020-react/precache-manifest.b81efcba9ab6e99b294307779dcaadcd.js"
 );
 
 self.addEventListener('message', (event) => {
